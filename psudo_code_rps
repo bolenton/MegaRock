@@ -1,0 +1,17 @@
+welcome_player()
+
+give players instructions
+
+player_chooses()
+
+computer_chooses()
+
+compare_hands():
+
+decide_winner():
+	if tied
+		restart game
+	or else if player wins
+		player 1 is winner
+	or else if computer wins
+		the computer wins
